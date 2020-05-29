@@ -1,0 +1,1 @@
+This is a simple build of the Google homepage and search results page . This project will be built using HTML and CSS only; no JavaScript will be involved.
